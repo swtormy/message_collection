@@ -1,2 +1,3 @@
 /__pycache__
 parse_message_attachments_outlook/config.py
+atlassian_xsrf_token/config.py

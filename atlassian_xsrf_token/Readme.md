@@ -1,0 +1,2 @@
+## Atlassian XSRF token miner 📝
+There are cases when it is not possible to use the official JIRA library for parsing tasks. In this case, you have to write your own parsers, one of the problems may be getting an authorization token. This script describes how to get XSRF token and other parameters from cookies. For this task selenium and chrome webdriver are used.
