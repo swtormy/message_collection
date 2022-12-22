@@ -1,3 +1,2 @@
 /__pycache__
-__init__.py
-config.py
+parse_message_attachments_outlook/config.py
